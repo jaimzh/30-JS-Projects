@@ -9,8 +9,8 @@ Build one project per day to sharpen problem-solving, logic, and front-end funda
 
 ## 🚀 Projects
 
-* [ ] Day 01 – Drum Kit....we'll conquer thee in a few hours 
-* [ ] Day 02 – Clock
+* [-] Day 01 – Drum Kit....we'll conquer thee in a few hours 
+* [-] Day 02 – Clock
 * [ ] Day 03 – CSS Variables
 * [ ] ...
 * [ ] Day 30 – Final Project
